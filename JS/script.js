@@ -471,5 +471,3 @@ for(i=0;i<arr1.length;i++){
     }
 }
 console.log(arr2);
-
-console.log("53 пример: ");
