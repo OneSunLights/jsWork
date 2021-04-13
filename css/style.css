@@ -1,0 +1,522 @@
+/* line 5, F:/projects/Javascript/jsWork/sass/style.sass */
+.red {
+  color: red;
+}
+
+/* line 7, F:/projects/Javascript/jsWork/sass/style.sass */
+.blue {
+  color: blue;
+}
+
+/* line 9, F:/projects/Javascript/jsWork/sass/style.sass */
+.green {
+  color: green;
+}
+
+/* line 12, F:/projects/Javascript/jsWork/sass/style.sass */
+.block {
+  height: 480px;
+  width: 640px;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f1 {
+  font-size: 1;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f2 {
+  font-size: 2;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f3 {
+  font-size: 3;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f4 {
+  font-size: 4;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f5 {
+  font-size: 5;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f6 {
+  font-size: 6;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f7 {
+  font-size: 7;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f8 {
+  font-size: 8;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f9 {
+  font-size: 9;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f10 {
+  font-size: 10;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f11 {
+  font-size: 11;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f12 {
+  font-size: 12;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f13 {
+  font-size: 13;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f14 {
+  font-size: 14;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f15 {
+  font-size: 15;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f16 {
+  font-size: 16;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f17 {
+  font-size: 17;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f18 {
+  font-size: 18;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f19 {
+  font-size: 19;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f20 {
+  font-size: 20;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f21 {
+  font-size: 21;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f22 {
+  font-size: 22;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f23 {
+  font-size: 23;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f24 {
+  font-size: 24;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f25 {
+  font-size: 25;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f26 {
+  font-size: 26;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f27 {
+  font-size: 27;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f28 {
+  font-size: 28;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f29 {
+  font-size: 29;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f30 {
+  font-size: 30;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f31 {
+  font-size: 31;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f32 {
+  font-size: 32;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f33 {
+  font-size: 33;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f34 {
+  font-size: 34;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f35 {
+  font-size: 35;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f36 {
+  font-size: 36;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f37 {
+  font-size: 37;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f38 {
+  font-size: 38;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f39 {
+  font-size: 39;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f40 {
+  font-size: 40;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f41 {
+  font-size: 41;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f42 {
+  font-size: 42;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f43 {
+  font-size: 43;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f44 {
+  font-size: 44;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f45 {
+  font-size: 45;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f46 {
+  font-size: 46;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f47 {
+  font-size: 47;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f48 {
+  font-size: 48;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f49 {
+  font-size: 49;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f50 {
+  font-size: 50;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f51 {
+  font-size: 51;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f52 {
+  font-size: 52;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f53 {
+  font-size: 53;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f54 {
+  font-size: 54;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f55 {
+  font-size: 55;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f56 {
+  font-size: 56;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f57 {
+  font-size: 57;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f58 {
+  font-size: 58;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f59 {
+  font-size: 59;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f60 {
+  font-size: 60;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f61 {
+  font-size: 61;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f62 {
+  font-size: 62;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f63 {
+  font-size: 63;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f64 {
+  font-size: 64;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f65 {
+  font-size: 65;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f66 {
+  font-size: 66;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f67 {
+  font-size: 67;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f68 {
+  font-size: 68;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f69 {
+  font-size: 69;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f70 {
+  font-size: 70;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f71 {
+  font-size: 71;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f72 {
+  font-size: 72;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f73 {
+  font-size: 73;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f74 {
+  font-size: 74;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f75 {
+  font-size: 75;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f76 {
+  font-size: 76;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f77 {
+  font-size: 77;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f78 {
+  font-size: 78;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f79 {
+  font-size: 79;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f80 {
+  font-size: 80;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f81 {
+  font-size: 81;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f82 {
+  font-size: 82;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f83 {
+  font-size: 83;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f84 {
+  font-size: 84;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f85 {
+  font-size: 85;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f86 {
+  font-size: 86;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f87 {
+  font-size: 87;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f88 {
+  font-size: 88;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f89 {
+  font-size: 89;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f90 {
+  font-size: 90;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f91 {
+  font-size: 91;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f92 {
+  font-size: 92;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f93 {
+  font-size: 93;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f94 {
+  font-size: 94;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f95 {
+  font-size: 95;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f96 {
+  font-size: 96;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f97 {
+  font-size: 97;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f98 {
+  font-size: 98;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f99 {
+  font-size: 99;
+}
+
+/* line 16, F:/projects/Javascript/jsWork/sass/style.sass */
+.f100 {
+  font-size: 100;
+}
+
+/*# sourceMappingURL=style.css.map */

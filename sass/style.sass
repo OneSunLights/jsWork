@@ -1,0 +1,17 @@
+@mixin h($a)
+    height: $a
+@mixin w($b)
+    width: $b
+.red
+    color: red
+.blue
+    color: blue
+.green
+    @if 1+1 == 2
+        color: green
+.block
+    @include h(480px)
+    @include w(640px)
+@for $i from 1 through 100
+    .f#{$i}
+        font-size: $i
